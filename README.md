@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PurpleSaga
+- 👋 Hi, I’m @Snehal
 - 🌱 I’m currently learning java
-- 📫 How to reach me: purplesaga777@gmail.com
+
 
 <!---
 PurpleSaga/PurpleSaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
