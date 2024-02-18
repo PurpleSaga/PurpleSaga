@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @Snehal
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning react
+- languages ik: c, c++, java, python, oracle SQL, html-css
+- goal : fullstack
+- love: ui & ux
 
 
 <!---
